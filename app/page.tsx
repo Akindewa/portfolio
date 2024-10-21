@@ -1,5 +1,4 @@
 "use client";
-
 import Approach from "@/components/Approach";
 import Clients from "@/components/Clients";
 import Experience from "@/components/Experience";
@@ -7,8 +6,6 @@ import Grid from "@/components/Grid";
 import RecentProjects from "@/components/RecentProject";
 import { FloatingNav } from "@/components/ui/FloatingNav";
 import { navItems } from "@/Data";
-// import Image from "next/image";
-// import { FaHome } from "react-icons/fa";
 import Footer from "@/components/Footer";
 import Hero from "@/components/Hero";
 
