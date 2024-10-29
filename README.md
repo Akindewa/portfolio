@@ -26,15 +26,15 @@
 
 ### Screenshot (desktop and mobile view)
 
-        ![Desktop Screenshot](./screenshot/desktop.jpg)
+  -    ![Desktop Screenshot](./screenshot/desktop.jpg)
 
-        ![Mobile Screenshot](./screenshot/mobile.jpg)
+  -    ![Mobile Screenshot](./screenshot/mobile.jpg)
 
 ### Links
 
-      [Live Demo](https://website-git-main-akindewas-projects.vercel.app/)
+   -   [Live Demo](https://website-git-main-akindewas-projects.vercel.app/)
 
-        [Source Code](https://github.com/Akindewa/portfolio.git)
+   -     [Source Code](https://github.com/Akindewa/portfolio.git)
 
 ### Built with
   - TypeScript
