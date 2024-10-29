@@ -1,36 +1,43 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Portfolio
+  
+## Overwiew
+        This portfolio project serves as a small collection of my work and projects, each representing steps in my learning and development as a developer. 
 
-## Getting Started
+   ### Feature:
+  - About Me Section: 
+       - Provides a brief overview introducing who I am, my background, and my professional goals
+       
+       
+  - Project Showcase:
 
-First, run the development server:
+       -  Project cards or sections give each project its own space with a title, description, technologies used, and a link to a live version or demo.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+  - Skills & Technologies:
+       -  Displays my core skills and tools in a list or visual format, allowing viewers to quickly understand my expertise.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+  -  Contact Information: 
+       - Includes an easily accessible way to reach out, like an email address or contact form.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+  - Responsive Design:
+       -  Ensures the portfolio works seamlessly across different screen sizes, from mobile devices to desktops.
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+  -   Testimonials or Recommendations: 
+       - Features a few brief quotes from clients, mentors, or colleagues to add credibility.
 
-## Learn More
+### Screenshot (desktop and mobile view)
 
-To learn more about Next.js, take a look at the following resources:
+        [desktop](./screenshot/desktop.jpg)
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+        [mobile](./screenshot/mobile.jpg)
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+### Links
 
-## Deploy on Vercel
+        [[Live_Demo]()](https://website-git-main-akindewas-projects.vercel.app/)
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+        [[Code_Link]()](https://github.com/Akindewa/portfolio.git)
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+### Built with
+  - TypeScript
+  - Next.js
+  - JavaScript
+  - CSS
