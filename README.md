@@ -32,7 +32,7 @@
 
 ### Links
 
-        [[Live_Demo]()](https://website-git-main-akindewas-projects.vercel.app/)
+        [Live_Demo]()(https://website-git-main-akindewas-projects.vercel.app/)
 
         [[Code_Link]()](https://github.com/Akindewa/portfolio.git)
 
